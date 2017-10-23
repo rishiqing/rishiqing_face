@@ -1,0 +1,17 @@
+名称：/v2_1/androidKanbanList/kanbanCardList
+参数：
+```GET
+```{childKanbanId:8223
+}
+返回值：
+[{{renameCard:true
+moveCard:true
+createItem:true
+removeCard:true
+copyCard:true
+archiveCard:true
+}
+id:26832
+name:已延后
+}
+...]

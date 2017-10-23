@@ -1,0 +1,24 @@
+名称：/v2_1/androidTodos/schedule
+参数：
+```GET
+```{dateSel:20171023
+createTaskDate:20171023
+}
+返回值：
+[{[{pIsDone:false
+clock:null
+icon:null
+pDisplayOrder:65535
+pTitle:早读一小时－ 设计模式
+id:288021
+dates:null
+startDate:20171023
+endDate:20171023
+delayDays:0
+pContainer:UU
+isCloseRepeat:false
+}
+...]
+date:20171023
+}
+...]
