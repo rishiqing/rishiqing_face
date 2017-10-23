@@ -1,10 +1,17 @@
-名称：/v2_1/androidKanbanList/childKanbanList
+名称：/v2/kanbans
 
 参数：
-GET
+POST
 ```java
 {
-kanbanId:#
+attribute:#
+isCreate:#
+templateId:#
+isStarMark:#
+openToPublic:#
+name:#
+displayOrder:#
+position:#
 }
 ```
 返回值：

@@ -1,10 +1,9 @@
-名称：/v2_1/androidKanbanList/childKanbanList
+名称：/v2/kanbans/6396
 
 参数：
 GET
 ```java
 {
-kanbanId:#
 }
 ```
 返回值：

@@ -12,7 +12,12 @@ childKanbanId:#
 [
 {
 editControl:{
+renameCard:#
+moveCard:#
 createItem:#
+removeCard:#
+copyCard:#
+archiveCard:#
 }
 id:#
 name:#
