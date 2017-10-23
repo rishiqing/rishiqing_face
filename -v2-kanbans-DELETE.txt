@@ -1,7 +1,0 @@
-名称：/v2/kanbans
-参数：DELETE
-{id:6395
-}
-返回值：
-{dealKanban:delete
-}

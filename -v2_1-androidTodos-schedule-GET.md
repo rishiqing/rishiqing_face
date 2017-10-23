@@ -1,6 +1,6 @@
 名称：/v2_1/androidTodos/schedule
 参数：
-```GET
+```jsonGET
 ```{dateSel:20171023
 createTaskDate:20171023
 }

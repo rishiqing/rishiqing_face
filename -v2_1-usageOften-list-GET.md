@@ -1,6 +1,6 @@
 名称：/v2_1/usageOften/list
 参数：
-```GET
+```jsonGET
 ```{}
 返回值：
 [{cover:https://images.timetask.cn/cover/default/corpus_v1/card-default-5.png

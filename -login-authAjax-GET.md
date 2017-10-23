@@ -1,6 +1,6 @@
 名称：/login/authAjax
 参数：
-```GET
+```jsonGET
 ```{versionName:60006
 }
 返回值：
@@ -9,7 +9,7 @@ isOauthLogin:false
 synEvent:false
 canInvite:true
 joinToken:null
-lastLoginDate:2017-10-23 14:03:54
+lastLoginDate:2017-10-23 14:13:04
 indexPageUrl:http://beta.rishiqing.com/index.php
 guideNoteFlag:false
 todoCheckAuthorityIsPublic:true
@@ -64,7 +64,7 @@ isBigCalendar:true
 publicWxOpenId:null
 showSendRegister:false
 defaultKanbanId:6396
-token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFsTmFtZSI6IuiDoeadvuaMryIsInBhc3N3b3JkIjoiYmEzMjUzODc2YWVkNmJjMjJkNGE2ZmY1M2Q4NDA2YzZhZDg2NDE5NWVkMTQ0YWI1Yzg3NjIxYjZjMjMzYjU0OGJhZWFlNjk1NmRmMzQ2ZWM4YzE3ZjVlYTEwZjM1ZWUzY2JjNTE0Nzk3ZWQ3ZGRkMzE0NTQ2NGUyYTBiYWI0MTMiLCJpZCI6MTc3NiwiZXhwIjoxNTExMzMxMTg0LCJpYXQiOjE1MDg3MzkxODQsImF1dGhTY29wZSI6e30sInVzZXJuYW1lIjoiMTgzMDEyMDQ1MjdAcmlzaGlxaW5nLmNvbSJ9.Hz8HmEcdcWhu1LedwN6AK5XUaDoZ3mbY1ANsx89GKNM
+token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFsTmFtZSI6IuiDoeadvuaMryIsInBhc3N3b3JkIjoiYmEzMjUzODc2YWVkNmJjMjJkNGE2ZmY1M2Q4NDA2YzZhZDg2NDE5NWVkMTQ0YWI1Yzg3NjIxYjZjMjMzYjU0OGJhZWFlNjk1NmRmMzQ2ZWM4YzE3ZjVlYTEwZjM1ZWUzY2JjNTE0Nzk3ZWQ3ZGRkMzE0NTQ2NGUyYTBiYWI0MTMiLCJpZCI6MTc3NiwiZXhwIjoxNTExMzMxNDM5LCJpYXQiOjE1MDg3Mzk0MzksImF1dGhTY29wZSI6e30sInVzZXJuYW1lIjoiMTgzMDEyMDQ1MjdAcmlzaGlxaW5nLmNvbSJ9.TTDOHWkLhujOmv95tyopVTeTmxfVYPSbDBm-1gplSJ4
 realName:胡松振
 hasMessage:true
 isSendToOneself:false
