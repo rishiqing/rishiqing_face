@@ -2,6 +2,7 @@
 参数：GET
 {}
 返回值：
+```python
 {attribute:company
 cover:https://images.timetask.cn/cover/default/kanban_v1/card-default-3.png
 [{id:1776
@@ -46,3 +47,5 @@ creatorId:1776
 isSendToOneself:true
 isSinking:true
 }
+
+```
