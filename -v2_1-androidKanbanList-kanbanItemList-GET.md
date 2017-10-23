@@ -1,8 +1,8 @@
 名称：/v2_1/androidKanbanList/kanbanItemList
+
 参数：
-```json
 GET
-{
+```json{
 max:#
 offset:#
 kanbanCardId:#

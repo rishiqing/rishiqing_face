@@ -1,8 +1,8 @@
 名称：/v2_1/androidKanbanList/kanbanCardList
+
 参数：
-```json
 GET
-{
+```json{
 childKanbanId:#
 }
 ```
