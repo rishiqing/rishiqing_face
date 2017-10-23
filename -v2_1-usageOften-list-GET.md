@@ -2,11 +2,12 @@
 
 参数：
 GET
-```json{
+```java
+{
 }
 ```
 返回值：
-```json
+```java
 [
 {
 cover:#

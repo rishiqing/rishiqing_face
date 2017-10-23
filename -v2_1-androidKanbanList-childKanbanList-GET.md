@@ -2,12 +2,13 @@
 
 参数：
 GET
-```json{
+```java
+{
 kanbanId:#
 }
 ```
 返回值：
-```json
+```java
 {
 attribute:#
 cover:#

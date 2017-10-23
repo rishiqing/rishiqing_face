@@ -2,12 +2,13 @@
 
 参数：
 GET
-```json{
+```java
+{
 childKanbanId:#
 }
 ```
 返回值：
-```json
+```java
 [
 {
 editControl:{
